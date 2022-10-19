@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hadeer Ashraf El-Nagar</h1>
-<h3 align="center">A passionate Developer</h3>
+<h3 align="center">A Passionate Developer</h3>
 
 - 🔭 I’m currently Looking For **Gain More Experience**
 
