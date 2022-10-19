@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hadeer Ashraf El-Nagar</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
-- 🔭 I’m currently Looking For **a Frontend position**
+- 🔭 I’m currently Looking For **Gain More Experience**
 
-- 🌱 I’m currently learning **Typescript and Sass**
+- 🌱 I’m currently learning **Everything I find on My Way, Learning never exhausts the Mind**
 
 - 👨‍💻 All of my projects are available at [My Repo](https://github.com/hadeerashrafelnagar?tab=repositories)
 
