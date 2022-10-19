@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hadeer Ashraf El-Nagar</h1>
 <h3 align="center">A Passionate Developer</h3>
 
-- 🔭 I’m currently Looking For **Gain More Experience**
+- 🔭 I’m currently Looking For **Gaining More Experience**
 
 - 🌱 I’m currently learning **Everything I find on My Way, Learning never exhausts the Mind**
 
