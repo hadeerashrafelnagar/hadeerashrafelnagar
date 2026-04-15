@@ -5,14 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://www.linkedin.com/in/hadeer-ashraf-el-nagar/)" height="25" alt="linkedin logo"  />
+  <img src="hadeerashrafelnagar@gmail.com" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello👋</h1>
 
 ###
 
@@ -99,5 +100,5 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadeerashrafelnagar&show_icons=true&locale=en" alt="hadeerashrafelnagar" /></p>
 ###
